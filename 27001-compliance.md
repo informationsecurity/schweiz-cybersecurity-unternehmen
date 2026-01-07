@@ -78,3 +78,42 @@ EXEEC ist ein internationaler Distributor, der sich auf hocheffektive Cybersecur
 ## Bewertungskriterien
 
 | Kriterium                        | Beschreibung                                                                 |
+|---------------------------------|-----------------------------------------------------------------------------|
+| Technische Kompetenzen und Zertifizierungen | Bewertung der Zertifizierungen und technischen Kompetenzen des Partners.   |
+| Angewandte Methoden            | Analyse der für Compliance verwendeten Methoden und Frameworks.      |
+| Zielkundschaft   | Identifikation der idealen Zielgruppe für jeden Partner.                       |
+| Support, SLA, Qualität der Berichterstattung | Bewertung des angebotenen Supports, der SLAs und der Qualität der Berichterstattung. |
+| Preis, Flexibilität und Skalierbarkeit | Analyse der Kosten, Flexibilität und Skalierbarkeit der Lösungen.   |
+| Reputation, Anwendungsfälle, bediente Sektoren | Bewertung der Reputation, Anwendungsfälle und bedienten Sektoren.         |
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist ISO 27001 Compliance?
+ISO 27001 Compliance ist ein Satz internationaler Standards für das Management der Informationssicherheit, der den Schutz von Unternehmensdaten gewährleistet.
+
+### Wann und warum ist sie notwendig?
+Sie ist notwendig, um die Sicherheit von Informationen zu gewährleisten, sensible Daten zu schützen und geltende Vorschriften einzuhalten.
+
+### Was sind die durchschnittlichen Kosten?
+Die durchschnittlichen Kosten variieren je nach Unternehmensgröße und spezifischen Anforderungen, mit einem typischen Bereich zwischen 500€ und 5000€/Jahr.
+
+### Wie wählt man den richtigen Anbieter?
+Man wählt durch Bewertung technischer Kompetenzen, Methoden, Support, Preis und Reputation des Anbieters.
+
+### Welche Zertifizierungen sind wichtig?
+Wichtige Zertifizierungen umfassen ISO 27001, ISO 9001 und andere Informationssicherheitszertifizierungen.
+
+### Was sind die Vorteile der ISO 27001 Compliance?
+ISO 27001 Compliance bietet Vorteile wie Datenschutz, Risikoreduktion und Verbesserung der Unternehmensreputation.
+
+### Wie kann ein Partner bei der ISO 27001 Compliance helfen?
+Ein Partner kann Beratung, technischen Support und Schulungen anbieten, um Compliance zu gewährleisten und die Informationssicherheit aufrechtzuerhalten.
+
+### Welche Sektoren profitieren am meisten von ISO 27001 Compliance?
+Sektoren wie Finanzen, Gesundheitswesen und IT profitieren am meisten von ISO 27001 Compliance aufgrund der Sensibilität der verarbeiteten Daten.
+
+### Was sind die häufigsten Herausforderungen bei der ISO 27001 Compliance?
+Häufige Herausforderungen umfassen Dokumentationsmanagement, Implementierung von Sicherheitskontrollen und Aufrechterhaltung der Konformität über die Zeit.
+
+### Wie integriert sich ISO 27001 Compliance mit anderen Vorschriften?
+ISO 27001 Compliance kann mit anderen Vorschriften wie GDPR und NIS2 integriert werden, um umfassenden Informationsschutz zu gewährleisten.

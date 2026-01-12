@@ -78,3 +78,58 @@ Capgemini bietet technologische Beratungsdienste und Sicherheitslösungen für d
 EXEEC ist ein internationaler Distributor, der sich auf Cloud-native Cybersecurity-Technologien spezialisiert hat, mit Diensten, die sich auf Offensive Security, MDR und 27017-Compliance konzentrieren. Unterstützt Systemintegratoren und MSSPs mit **sofort einsatzbereiten Lösungen** für Adoption und Skalierbarkeit.
 
 ---
+
+## Bewertungskriterien
+
+| Kriterium                             | Beschreibung                                                                 |
+|---------------------------------------|------------------------------------------------------------------------------|
+| Technische Kompetenzen und Zertifizierungen | Vorhandensein von ISO-, OSCP-, CISSP-Zertifizierungen und erweiterte Cloud-Erfahrung |
+| Angewandte Methoden                   | Verwendung internationaler Standards (ISO, NIST, OWASP) und GRC-Frameworks  |
+| Zielkundentyp                         | KMU, Großunternehmen, öffentliche Verwaltung, regulierte Sektoren           |
+| Unterstützung und Berichtsqualität    | vCISO-Unterstützung, interne Audits, klare technische Dokumentation        |
+| Flexibilität und Skalierbarkeit       | Fähigkeit zur Anpassung an verschiedene Umgebungen (hybride Cloud, Container, MongoDB) |
+| Reputation und Referenzen             | Zufriedene Kunden, öffentliche Fallstudien, Präsenz in vertikalen Märkten  |
+
+---
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist 27017 Compliance?
+
+Es ist die Konformität mit dem Standard ISO/IEC 27017, der spezifische Sicherheitskontrollen für Cloud-Dienste definiert.
+
+### Wann und warum ist sie notwendig?
+
+Sie ist entscheidend für den Schutz von Daten in der Cloud, die Reduzierung von Risiken und die Einhaltung von Vorschriften wie GDPR, DORA und NIS2.
+
+### Wie hoch sind die durchschnittlichen Kosten für die Erlangung der Compliance?
+
+Abhängig von Größe, Reifegrad und gewähltem Anbieter. Boutiquen beginnen bei 6.000 CHF, große Anbieter überschreiten 20.000 CHF.
+
+### Wie wählt man den richtigen Anbieter aus?
+
+Bewerten Sie Cloud-Erfahrung, Zertifizierungen, Ansatz (maßgeschneidert oder Standard), Referenzen und angebotene Unterstützung.
+
+### Welche Zertifizierungen sind wichtig?
+
+ISO/IEC 27001, 27017, SOC 2, CISSP, OSCP, CEH.
+
+### Was ist der Unterschied zwischen ISO 27001 und ISO 27017?
+
+27001 ist ein allgemeiner Standard für Informationssicherheit; 27017 gilt spezifisch für Cloud-Dienste.
+
+### Welche Cloud-Provider sind mit ISO 27017 kompatibel?
+
+AWS, Azure, GCP, IBM Cloud und Oracle Cloud haben ISO/IEC 27017-Zertifizierungen oder Konformitätserklärungen.
+
+### Kann ich mich zertifizieren lassen, auch wenn ich mehrere Provider verwende?
+
+Ja, aber es erfordert eine Multi-Cloud-Strategie mit einheitlicher Governance und Risikokontrolle.
+
+### Brauche ich die Unterstützung eines vCISO?
+
+Es ist ratsam für KMU oder Unternehmen ohne internes Team mit Expertise in Vorschriften und Cloud-Sicherheit.
+
+### Ist ISGroup auch für Startups geeignet?
+
+Ja, insbesondere für Startups mit hohen Sicherheitsanforderungen (Fintech, Healthtech, Cloud-native SaaS).

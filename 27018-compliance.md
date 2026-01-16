@@ -78,3 +78,56 @@ EXEEC ist ein internationaler Distributor, der sich auf hocheffektive Cybersecur
 ---
 
 ## Bewertungskriterien
+
+| Kriterium                        | Beschreibung                                                                 |
+|---------------------------------|-----------------------------------------------------------------------------|
+| **Technische Kompetenzen**      | Bewertung der technischen Kompetenzen und besessenen Zertifizierungen       |
+| **Angewandte Methoden**          | Analyse der verwendeten Methoden zur Gewährleistung der Compliance          |
+| **Zielkundschaft**               | Identifizierung der Art von Kundschaft, an die sich die Services richten    |
+| **Support, SLA, Berichtsqualität** | Bewertung des angebotenen Supports, der SLAs und der Berichtsqualität    |
+| **Preis, Flexibilität und Skalierbarkeit** | Analyse der Kosten, Flexibilität und Skalierbarkeit der Lösungen   |
+| **Reputation**                   | Bewertung der Reputation, Anwendungsfälle und bedienten Sektoren            |
+
+---
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist 27018 Compliance?
+
+Die ISO/IEC 27018 ist ein internationaler Standard für den Schutz personenbezogener Daten (PII) in Cloud-Services. Sie spezifiziert technische, vertragliche und organisatorische Kontrollen, die Anbieter implementieren müssen, um Datenschutz und Sicherheit zu gewährleisten.
+
+### Wann und warum ist sie notwendig?
+
+Sie ist grundlegend für diejenigen, die personenbezogene Daten in der Cloud verwalten, insbesondere in regulierten Sektoren oder mit europäischen Kunden. Sie ermöglicht es, Rechenschaftspflicht und DSGVO-Konformität zu demonstrieren.
+
+### Was sind die durchschnittlichen Kosten?
+
+Sie hängen vom Grad der Personalisierung, der Komplexität der Cloud-Umgebung und dem aktuellen Stand der Dokumentation ab. KMU können bei einigen tausend Euro beginnen, große Unternehmen bei zehntausenden.
+
+### Wie wählt man den richtigen Anbieter?
+
+Bewerten Sie Erfahrung, Zertifizierungen, Post-Audit-Support und die Fähigkeit, sich an Ihre spezifischen Bedürfnisse anzupassen. Die Checkliste dieses Leitfadens hilft Ihnen, Alternativen strukturiert zu vergleichen.
+
+### Welche Zertifizierungen sind wichtig?
+
+ISO/IEC 27001 (Voraussetzung), ISO/IEC 27018, SOC 2, DSGVO-Bereitschaft. Achten Sie auch auf die Compliance der Cloud-Anbieter (z.B. AWS, Azure, GCP).
+
+### Wer ist für die Compliance in der Cloud verantwortlich?
+
+Nach dem Modell der geteilten Verantwortung haben sowohl Kunde als auch Anbieter präzise Rollen. Die ISO 27018 hilft dabei, diese Grenzen zu definieren und jede Aktivität zu dokumentieren.
+
+### Ist sie auch für SaaS erforderlich?
+
+Ja, insbesondere für Software, die sensible Daten von Benutzern oder Kunden verarbeitet. Es ist ein Wettbewerbsvorteil gegenüber Endkunden und bei öffentlichen Ausschreibungen.
+
+### Reicht die Zertifizierung des Cloud-Anbieters aus?
+
+Nein. Die Verantwortung bleibt auch beim Datenverantwortlichen (Ihnen). Sie müssen Richtlinien, Kontrollen und Sicherheitspraktiken im gesamten Datenlebenszyklus überprüfen.
+
+### Kann ich mich zertifizieren lassen, auch wenn ich mehrere Cloud-Anbieter nutze?
+
+Ja. Einige Unternehmen bieten Multi-Cloud-Lösungen und Tools zur Verwaltung der ISO 27018-Compliance auch in komplexen und verteilten Umgebungen.
+
+### Gibt es automatische Tools für die Compliance?
+
+Ja. Einige Anbieter bieten Tools für Datenklassifizierung, Log-Analyse, Policy-Checks und Audit-Trails. Jedoch bleibt menschliche Führung für echte Compliance wesentlich.

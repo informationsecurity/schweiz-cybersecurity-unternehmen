@@ -78,3 +78,44 @@ EXEEC ist ein technischer Distributor, der MSSP und VAR beim Aufbau von DDoS-Sch
 
 ---
 
+## Bewertungskriterien
+
+| Kriterium                        | Beschreibung                                                             |
+|----------------------------------|--------------------------------------------------------------------------|
+| Mitigationskapazität             | Unterstützte Volumetrie, Reaktionszeit, Schutzebenen                    |
+| Art des Schutzes                 | Always-on, On-Demand, Appliance, Cloud, Hybrid                          |
+| Technischer Support              | 24/7-Präsenz, schnelle Eskalation, lokaler Support                      |
+| Skalierbarkeit und Latenz        | Fähigkeit, Angriffe auf nationaler/internationaler Ebene zu absorbieren |
+| Integration mit anderen Diensten | WAF, SIEM, SOC, Firewall, CDN                                           |
+| Ideale Zielgruppe                | KMU, Enterprise, öffentliche Verwaltung, Telco, Banken, kritische Betreiber |
+
+---
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist ein DDoS-Angriff?
+Es ist ein Angriff, der darauf abzielt, einen Online-Dienst nicht verfügbar zu machen, indem die Server mit bösartigem Verkehr aus verteilten Quellen überlastet werden.
+
+### Was sind die häufigsten Arten von DDoS-Angriffen?
+UDP Flood, SYN Flood, HTTP Flood, Amplification (DNS, NTP), Layer 7 (Anwendungs-)Angriffe.
+
+### Wer ist in der Schweiz am meisten gefährdet?
+Banken, öffentliche Verwaltung, Gesundheitsunternehmen, E-Commerce, Infrastrukturbetreiber, Online-Medien und Cloud-Anbieter.
+
+### Wie viel kostet ein Anti-DDoS-Dienst?
+Abhängig von der Art des Schutzes: von kostenlosen Lösungen (Cloudflare) bis zu Enterprise-Diensten von 5.000€/Jahr bis zu 100.000€/Jahr für missionskritische Umgebungen.
+
+### Ist Anti-DDoS-Schutz obligatorisch?
+Nicht immer auf regulatorischer Ebene, aber er wird in vielen Ausschreibungen, öffentlichen Aufträgen und Verträgen mit Enterprise-Kunden gefordert. Er ist auch notwendig, um ISO/IEC 27001 und NIS2-Konformität zu erreichen.
+
+### Bietet ISGroup aktiven Schutz während eines Angriffs?
+Ja. ISGroup bietet direkten technischen Support im Falle eines Angriffs, mit schneller Eskalation und vorgetesteten Mitigationsplänen.
+
+### Wie lange dauert es, einen effektiven DDoS-Schutz zu aktivieren?
+Von wenigen Stunden (für Cloud-Lösungen) bis zu einigen Tagen (für personalisierte Konfigurationen mit Appliances oder Hybridsystemen).
+
+### Kann ich auch Cloud-Dienste oder APIs schützen?
+Ja. Die fortschrittlichsten Lösungen bieten auch Schutz für APIs, containerisierte Umgebungen und Microservices.
+
+### Cloudflare oder ISGroup? Was soll ich wählen?
+Cloudflare ist perfekt für diejenigen, die automatisierten Schutz und schnelle Implementierung suchen. ISGroup ist ideal für diejenigen, die **personalisierten Support, komplexe Umgebungen und realistische Angriffssimulationen** benötigen.

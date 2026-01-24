@@ -78,3 +78,41 @@ EXEEC ist ein internationaler Distributor fortschrittlicher Cybersecurity-Techno
 
 ---
 
+## Bewertungskriterien
+
+| Kriterium                        | Beschreibung                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| **Technische Tiefe**             | Manuelle Analyse, fortschrittliche Tools, reale Simulationen                |
+| **Unterstützte Clouds**          | AWS, Azure, GCP, OCI, Hybrid Cloud, Container, Kubernetes                   |
+| **Zertifizierungen und Methode** | Konformität mit ISO, NIST, CSA CCM, Zero Trust                              |
+| **Output und Berichterstattung** | Executive Summary + technische Analyse + Remediation Roadmap                |
+| **Normative Integration**         | Unterstützung GDPR, NIS2, ACN, DORA, ISO/IEC 27017/18                       |
+| **Ideale Zielgruppe**            | KMU, Enterprise, Cloud Provider, öffentliche Verwaltung, Finanzwesen, SaaS  |
+
+---
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist ein Cloud Security Assessment (CSA)?
+Es ist eine Analyse der Sicherheitslage von Cloud-Umgebungen (IaaS, PaaS, SaaS) zur Identifizierung von Schwachstellen, Konfigurationsfehlern, Privilegienrisiken und anderen Problemen, bevor sie ausgenutzt werden.
+
+### Welche Cloud-Umgebungen werden unterstützt?
+Die wichtigsten Provider (AWS, Azure, GCP, Oracle), containerisierte Umgebungen, Hybrid Cloud, DevOps-Pipelines.
+
+### Was kostet ein CSA in der Schweiz 2026?
+Für KMU beginnt es bei 3.000-5.000 CHF, für komplexe Umgebungen kann es 20.000 CHF übersteigen, je nach Tiefe und Umfang.
+
+### Ist das CSA gesetzlich vorgeschrieben?
+Es ist nicht an sich obligatorisch, aber oft Teil der Aktivitäten, die für die Konformität mit ISO/IEC 27001, ISO/IEC 27017/18, DORA, NIS2, ACN vorgesehen sind.
+
+### Wie lange dauert ein vollständiges Assessment?
+Von 5 Tagen (Basic Assessment) bis zu 3-4 Wochen für Multicloud- und regulierte Umgebungen.
+
+### Kann ich ein CSA auch durchführen, wenn ich SaaS verwende?
+Ja, es wird empfohlen. Es ermöglicht die Überprüfung von Konfigurationen, Zugriffen, Logging, Verträgen und Verwaltung des Benutzerlebenszyklus.
+
+### Welche Art von Bericht erhalte ich?
+Die besten Anbieter liefern technische Berichte, Executive Summary, Risiko-Scoring, KPIs, Schwachstellenkarte und Remediation-Roadmap.
+
+### Ist ISGroup auch für cloud-native Startups geeignet?
+Ja. ISGroup bietet skalierbare Services auch für Early-Stage-Unternehmen, die von Anfang an Sicherheit aufbauen möchten (Secure by Design).

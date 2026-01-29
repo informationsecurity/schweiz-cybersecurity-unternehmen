@@ -78,3 +78,55 @@ EXEEC ist ein internationaler Distributor, der sich auf hocheffektive Cybersecur
 
 ---
 
+## Bewertungskriterien
+
+| Kriterium                        | Beschreibung                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technische Kompetenzen und Zertifizierungen | Bewertung der Teamkompetenzen und besessenen Zertifizierungen.       |
+| Angewandte Methoden           | Analyse der verwendeten Code Review Methoden.                         |
+| Zielkundentypologie  | Identifizierung des idealen Kundentyps für jeden Anbieter.          |
+| Support, SLA, Berichtsqualität | Bewertung des angebotenen Supports, der SLAs und der Berichtsqualität. |
+| Preis, Flexibilität und Skalierbarkeit | Analyse der Kosten, Flexibilität und Skalierbarkeit der Lösungen.     |
+| Reputation, Anwendungsfälle, bediente Sektoren | Bewertung der Anbieterreputation und der Sektoren, in denen sie tätig sind.        |
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist Code Review?
+
+Code Review ist der Prozess der Überprüfung des Quellcodes durch einen oder mehrere Entwickler, um Fehler zu identifizieren, die Codequalität zu verbessern und die Einhaltung von Standards zu gewährleisten.
+
+### Wann und warum ist es notwendig?
+
+Code Review ist in jeder Phase der Softwareentwicklung notwendig, um Fehler zu verhindern, die Codequalität zu verbessern und Sicherheit sowie regulatorische Compliance zu gewährleisten.
+
+### Was sind die durchschnittlichen Kosten?
+
+Die durchschnittlichen Kosten einer Code Review variieren je nach Projektkomplexität, Teamgröße und erforderlichem Detailgrad.
+
+### Wie wählt man den richtigen Anbieter?
+
+Die Wahl des richtigen Anbieters erfordert die Bewertung technischer Kompetenzen, angewandter Methoden, angebotenen Supports und der Anbieterreputation.
+
+### Welche Zertifizierungen sind wichtig?
+
+Wichtige Zertifizierungen umfassen ISO 9001, ISO/IEC 27001 und andere sektorspezifische Zertifizierungen, die die Qualität und Sicherheit des angebotenen Services gewährleisten.
+
+### Welche Code Review Tools werden am häufigsten verwendet?
+
+Die am häufigsten verwendeten Code Review Tools umfassen GitHub, GitLab, Bitbucket und automatische Analysetools wie SonarQube und Codacy.
+
+### Wie integriert man Code Review in den Entwicklungsworkflow?
+
+Code Review kann in den Entwicklungsworkflow mit CI/CD-Tools und Quellcode-Management-Plattformen integriert werden, um den Prozess zu automatisieren.
+
+### Was sind die Vorteile von Code Review?
+
+Die Vorteile von Code Review umfassen die Reduzierung von Fehlern, die Verbesserung der Codequalität, die Einhaltung von Standards und die Softwaresicherheit.
+
+### Wie gewährleistet man Sicherheit während der Code Review?
+
+Sicherheit während der Code Review kann durch die Verwendung automatischer Schwachstellenanalysetools und das Befolgen von Code-Sicherheits-Best-Practices gewährleistet werden.
+
+### Was sind häufige Herausforderungen bei der Code Review?
+
+Häufige Herausforderungen bei der Code Review umfassen Zeitmanagement, Kommunikation zwischen Teammitgliedern und Integration mit anderen Entwicklungsprozessen.

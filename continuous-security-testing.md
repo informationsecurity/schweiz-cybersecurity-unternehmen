@@ -78,3 +78,45 @@ EXEEC ist ein internationaler Distributor, der sich auf hocheffektive Cybersecur
 
 ---
 
+## Bewertungskriterien
+
+| Kriterium                        | Beschreibung                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technische Kompetenzen und Zertifizierungen | Bewertung der technischen Kompetenzen und besessenen Zertifizierungen.       |
+| Angewandte Methoden           | Analyse der für CST verwendeten Methoden.                             |
+| Zielkundentypologie  | Identifikation der idealen Zielgruppe für jeden Anbieter.                      |
+| Support, SLA, Berichtsqualität | Bewertung des angebotenen Supports, der SLAs und der Berichtsqualität. |
+| Preis, Flexibilität und Skalierbarkeit | Analyse der Kosten, Flexibilität und Skalierbarkeit der Lösungen.     |
+| Reputation, Anwendungsfälle, bediente Sektoren | Bewertung der Reputation, Anwendungsfälle und bedienten Sektoren.          |
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist Continuous Security Testing?
+Continuous Security Testing (CST) ist ein kontinuierlicher Prozess zur Bewertung der Sicherheit von Anwendungen und Infrastrukturen, um Schwachstellen zu identifizieren und zu beheben.
+
+### Wann und warum ist es notwendig?
+CST ist notwendig, um kontinuierlichen Schutz vor Cyber-Bedrohungen zu gewährleisten und die Einhaltung von Sicherheitsnormen aufrechtzuerhalten.
+
+### Was sind die durchschnittlichen Kosten?
+Die durchschnittlichen Kosten für CST variieren je nach Komplexität der Infrastruktur und den angeforderten Diensten. Es ist wichtig, das Preis-Leistungs-Verhältnis und die Skalierbarkeit der angebotenen Lösungen zu bewerten.
+
+### Wie wählt man den richtigen Anbieter aus?
+Um den richtigen Anbieter zu wählen, ist es wichtig, technische Kompetenzen, Zertifizierungen, Supportqualität und die Reputation des Anbieters zu bewerten.
+
+### Welche Zertifizierungen sind wichtig?
+Wichtige Zertifizierungen für CST umfassen ISO 27001, CREST und andere branchenspezifische Zertifizierungen.
+
+### Was sind die Vorteile von CST?
+CST bietet Vorteile wie kontinuierlichen Schutz, Reduzierung des Risikos von Cyberangriffen und Einhaltung von Sicherheitsnormen.
+
+### Wie integriert man CST in Geschäftsprozesse?
+CST kann durch Automatisierung und Integration in bestehende CI/CD-Pipelines in Geschäftsprozesse integriert werden.
+
+### Was sind die aufkommenden Trends im CST?
+Aufkommende Trends im CST umfassen den Einsatz von KI-Technologien, den Shift-Left Security-Ansatz und API-Sicherheit.
+
+### Wie bewertet man die Wirksamkeit von CST?
+Die Wirksamkeit von CST kann durch Schwachstellenabdeckung, Berichtsqualität und kontinuierliche Verbesserung der Sicherheitsmaßnahmen bewertet werden.
+
+### Was sind die häufigsten Herausforderungen im CST?
+Häufige Herausforderungen im CST umfassen das Management von False Positives, Integration in Geschäftsprozesse und Skalierbarkeit der Lösungen.

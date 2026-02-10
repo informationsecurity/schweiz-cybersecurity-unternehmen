@@ -78,3 +78,45 @@ EXEEC ist ein internationaler Distributor, der sich auf hocheffektive Cybersecur
 
 ---
 
+## Bewertungskriterien
+
+| Kriterium                        | Beschreibung                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Technische Kompetenzen und Zertifizierungen** | Bewertung der technischen Kompetenzen und besessenen Zertifizierungen.       |
+| **Angewandte Methoden**           | Analyse der für DFIR verwendeten Methoden.                               |
+| **Zielkundentypologie**  | Identifikation des idealen Ziels für jeden Anbieter.                     |
+| **Support, SLA, Qualität der Berichterstattung** | Bewertung des angebotenen Supports, der SLAs und der Qualität der Berichterstattung. |
+| **Preis, Flexibilität und Skalierbarkeit** | Analyse der Kosten, Flexibilität und Skalierbarkeit der Lösungen.     |
+| **Reputation, Anwendungsfälle, bediente Sektoren** | Bewertung der Reputation, Anwendungsfälle und bedienten Sektoren.          |
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist Digital Forensics And Incident Response?
+Digital Forensics And Incident Response (DFIR) ist ein Service, der erweiterte forensische Analyse zur Identifikation, Analyse und Dokumentation von Sicherheitsvorfällen sowie Incident Management zur Eindämmung, Beseitigung und Wiederherstellung kompromittierter Systeme umfasst.
+
+### Wann und warum ist es notwendig?
+Es ist notwendig, wenn eine Organisation einen Sicherheitsvorfall erleidet, wie eine Datenpanne oder einen Malware-Angriff, um die Ursache, das Ausmaß und die Auswirkungen des Angriffs zu bestimmen und die Systeme schnell wiederherzustellen.
+
+### Was sind die durchschnittlichen Kosten?
+Die durchschnittlichen Kosten variieren je nach Komplexität des Vorfalls und Größe der Organisation, aber es ist wichtig, den Wert des Schutzes und der garantierten operativen Kontinuität zu berücksichtigen.
+
+### Wie wählt man den richtigen Anbieter?
+Man wählt durch Bewertung der technischen Kompetenzen, Zertifizierungen, angewandten Methodik, angebotenen Supports, Preises und Reputation des Anbieters.
+
+### Was sind wichtige Zertifizierungen?
+Wichtige Zertifizierungen umfassen ISO 27001, SANS GCFA, GCIH und andere anerkannte im Bereich IT-Sicherheit und Digital Forensics.
+
+### Was sind die Vorteile eines ganzheitlichen Ansatzes zur IT-Sicherheit?
+Ein ganzheitlicher Ansatz kombiniert technische, rechtliche und Risikomanagement-Kompetenzen für umfassenden Schutz, gewährleistet effektives Incident Management und größere Unternehmensresilienz.
+
+### Wie kann Threat Intelligence die Incident Response verbessern?
+Threat Intelligence liefert aktuelle Informationen über IT-Bedrohungen und Schwachstellen, ermöglicht es, die raffiniertesten Bedrohungen rechtzeitig zu identifizieren und zu neutralisieren.
+
+### Was ist die Bedeutung der Verwaltung der Beweiskette für digitale Beweise?
+Die rigorose Verwaltung der Beweiskette gewährleistet die Integrität und Zulässigkeit digitaler Beweise vor Gericht, grundlegend für den Erfolg von Untersuchungen und Gerichtsverfahren.
+
+### Wie integrieren sich DFIR-Services mit bestehenden Sicherheitslösungen?
+DFIR-Services können sich mit den wichtigsten Sicherheitslösungen des Kunden (SIEM, EDR, Log Management) für eine einheitliche und koordinierte Sicherheitssicht integrieren.
+
+### Was sind die Vorteile eines 24/7-Supports?
+Ein 24/7-Support gewährleistet die sofortige Verfügbarkeit von Experten bei kritischen Sicherheitsvorfällen, minimiert Reaktionszeiten und potenzielle Schäden.

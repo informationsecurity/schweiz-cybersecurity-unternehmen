@@ -78,3 +78,45 @@ EXEEC ist ein internationaler Distributor, der sich auf hocheffektive Cybersecur
 
 ---
 
+## Bewertungskriterien
+
+| Kriterium                        | Beschreibung                                                                 |
+|---------------------------------|-----------------------------------------------------------------------------|
+| Technische Kompetenzen und Zertifizierungen | Bewertung der technischen Kompetenzen und besessenen Zertifizierungen.     |
+| Angewandte Methodologien            | Analyse der verwendeten Methodologien und Frameworks.                       |
+| Art der Zielkundschaft   | Identifikation des idealen Kundentyps für jeden Anbieter.         |
+| Support, SLA, Qualität der Berichterstattung | Bewertung des angebotenen Supports, der SLAs und der Qualität der Berichterstattung. |
+| Preis, Flexibilität und Skalierbarkeit | Analyse der Kosten, Flexibilität und Skalierbarkeit der Services.       |
+| Reputation, Anwendungsfälle, bediente Sektoren | Bewertung der Reputation, Anwendungsfälle und bedienten Sektoren.         |
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist Ethical Hacking?
+Ethical Hacking ist die Gesamtheit der Techniken, die verwendet werden, um die Sicherheit eines Computersystems zu testen und zu verbessern, indem reale Angriffe auf kontrollierte und legale Weise simuliert werden.
+
+### Wann und warum ist es notwendig?
+Es ist notwendig, wenn man Sicherheitsschwachstellen identifizieren und korrigieren möchte, bevor sie von böswilligen Angreifern ausgenutzt werden können.
+
+### Was sind die durchschnittlichen Kosten?
+Die durchschnittlichen Kosten variieren je nach Komplexität des Systems und Tiefe des Tests, beginnen aber im Allgemeinen bei einigen tausend Euro.
+
+### Wie wählt man den richtigen Anbieter aus?
+Man wählt durch Bewertung technischer Kompetenzen, Erfahrung, angewandter Methodologien und Fähigkeit zur Personalisierung der Services.
+
+### Welche Zertifizierungen sind wichtig?
+Zertifizierungen wie OSCP, CEH, CISSP und ISO/IEC 27001 sind wichtige Indikatoren für Kompetenz und Zuverlässigkeit im Bereich Ethical Hacking.
+
+### Was sind die Vorteile von Ethical Hacking?
+Ethical Hacking hilft dabei, Cyberangriffe zu verhindern, die Datensicherheit zu verbessern und die Einhaltung von Vorschriften zu gewährleisten.
+
+### Wie unterstützt Ethical Hacking die regulatorische Compliance?
+Durch die Identifikation und Korrektur von Schwachstellen hilft Ethical Hacking Unternehmen dabei, Vorschriften wie GDPR und NIS2 einzuhalten.
+
+### Was sind die Unterschiede zwischen Ethical Hacking und Penetration Testing?
+Ethical Hacking ist ein breiterer Begriff, der Penetration Testing einschließt, welches eine spezifische Art von Test ist, der sich auf die Identifikation von Schwachstellen konzentriert.
+
+### Wie kann Ethical Hacking die Unternehmenssicherheit verbessern?
+Durch die Identifikation und Korrektur von Schwachstellen reduziert Ethical Hacking das Risiko von Cyberangriffen und schützt sensible Informationen.
+
+### Was sind die zukünftigen Trends im Ethical Hacking?
+Der zunehmende Einsatz von KI und maschinellem Lernen zur Verbesserung der Testeffektivität und die Integration fortschrittlicher Technologien wie Cloud und IoT.

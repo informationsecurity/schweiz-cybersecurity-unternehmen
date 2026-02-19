@@ -78,3 +78,45 @@ EXEEC ist ein internationaler Distributor fortschrittlicher Cybersecurity-Techno
 
 ---
 
+## Bewertungskriterien
+
+| Kriterium                        | Beschreibung                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technische Kompetenzen und Zertifizierungen | Bewertung der technischen Kompetenzen und besessenen Zertifizierungen.       |
+| Angewandte Methoden           | Analyse der verwendeten Methoden zur Gewährleistung der Sicherheit.             |
+| Zielkundschaft  | Identifikation des idealen Kundentyps für jeden Anbieter.          |
+| Support, SLA, Qualität der Berichterstattung | Bewertung des angebotenen Supports, der SLAs und der Qualität der Berichterstattung. |
+| Preis, Flexibilität und Skalierbarkeit | Analyse der Kosten, Flexibilität und Skalierbarkeit der Lösungen.   |
+| Reputation, Anwendungsfälle, bediente Sektoren | Bewertung der Reputation, Anwendungsfälle und bedienten Sektoren.         |
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist Firewall As A Service (FWaaS)?
+Firewall As A Service (FWaaS) ist eine Cloud-Sicherheitslösung, die erweiterten Schutz für Unternehmensnetzwerke bietet, ohne physische Hardware zu benötigen.
+
+### Wann und warum ist es notwendig?
+FWaaS ist notwendig, um Unternehmensnetzwerke vor fortschrittlichen Cyber-Bedrohungen zu schützen und Sicherheit und Compliance in Cloud- und Hybrid-Umgebungen zu gewährleisten.
+
+### Was sind die durchschnittlichen Kosten?
+Die durchschnittlichen Kosten für FWaaS variieren je nach spezifischen Unternehmensanforderungen, erforderlicher Skalierbarkeit und enthaltenen Services.
+
+### Wie wählt man den richtigen Anbieter aus?
+Die Wahl des richtigen Anbieters hängt von Kriterien wie technischen Kompetenzen, angebotenem Support, Flexibilität der Lösungen und Reputation des Anbieters ab.
+
+### Welche Zertifizierungen sind wichtig?
+Wichtige Zertifizierungen umfassen ISO 27001, SOC 2 und andere international anerkannte Sicherheitszertifizierungen.
+
+### Welche Vorteile bietet DDoS-Schutz?
+DDoS-Schutz bietet Mitigation volumetrischer Angriffe und gewährleistet Verfügbarkeit und operative Kontinuität der Unternehmensnetzwerke.
+
+### Wie funktioniert die Verhaltensanalyse zur Anomalieerkennung?
+Die Verhaltensanalyse nutzt Machine Learning und KI, um anomales Verhalten im Netzwerkverkehr zu erkennen und fortschrittliche Bedrohungen zu verhindern.
+
+### Was sind die Vorteile der Multi-Layer-Sicherheit?
+Multi-Layer-Sicherheit bietet mehrstufigen Schutz durch Kombination verschiedener Technologien für umfassende Verteidigung gegen Cyber-Bedrohungen.
+
+### Wie integriert sich FWaaS mit bestehenden Sicherheitslösungen?
+FWaaS integriert sich mit bestehenden Sicherheitslösungen über flexible APIs und gewährleistet ein kohäsives und interoperables Sicherheitsökosystem.
+
+### Welche Deployment-Optionen sind für FWaaS verfügbar?
+Deployment-Optionen für FWaaS umfassen cloud-basierte, verwaltete, Hardware-, Software- und virtualisierte Lösungen, die sich an jede Infrastruktur anpassen.

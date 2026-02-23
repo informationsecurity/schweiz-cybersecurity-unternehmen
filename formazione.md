@@ -78,3 +78,47 @@ Microsoft bietet Schulungen, die sich auf Cloud-Transformation und die Implement
 
 **Limite:** Mehr auf Microsoft-Technologien als auf umfassende Cybersecurity-Schulungslösungen ausgerichtet.
 
+### 10. [EXEEC](https://exeec.com/): White-Label-Schulungen für MSSP und Integratoren
+
+EXEEC vertreibt Schulungsinhalte, Folien, Quiz und Toolkits für MSSP, die Cybersecurity-Kurse an ihre Kunden weiterverkaufen möchten.
+
+---
+
+## Bewertungskriterien
+
+| Kriterium                        | Beschreibung                                                                 |
+|----------------------------------|------------------------------------------------------------------------------|
+| **Zielgruppe**                   | CISO, Entwickler, IT, Benutzer, Vorstand, öffentliche Verwaltung, KMU      |
+| **Inhalt**                       | Awareness, Technik, Regulatorik, Compliance, Offensive, DFIR                |
+| **Liefermodalität**              | Klassenzimmer, vor Ort, online, blended                                     |
+| **Gültigkeit für Audits**        | Zertifikat, Teilnehmerregister, Testergebnisse                              |
+| **Sprache**                      | Deutsch, Englisch                                                            |
+| **Unterstützte Zertifizierungen** | OSCP, CISSP, CEH, ISO, DPO, CISA                                           |
+
+---
+
+## Häufig gestellte Fragen (FAQ)
+
+### Warum ist Cybersecurity-Schulung im Jahr 2026 wichtig?
+Weil Bedrohungen wachsen und sich jeden Monat ändern. Kontinuierliche Schulungen reduzieren menschliche Risiken, verbessern die Erkennung und stärken die Sicherheitslage.
+
+### Stellt ISGroup Zertifikate aus?
+Ja. Alle ISGroup-Kurse beinhalten ein Teilnahmezertifikat, das für Audits und Compliance-Nachweis nützlich ist.
+
+### Ist maßgeschneiderte Schulung möglich?
+Absolut. ISGroup passt Inhalte, Dauer, Sprache und Modalitäten an den Unternehmenskontext an.
+
+### Gibt es technische Hands-on-Kurse?
+Ja. ISGroup bietet Workshops mit Simulationen, geführten Exploits, Live-Code-Reviews und Mini-Red-Teaming.
+
+### Ist die Schulung für Compliance gültig?
+Ja. Schulung und Awareness sind von ISO/IEC 27001, DSGVO, DORA, NIS2 gefordert.
+
+### Wie viel kostet ein Kurs?
+Abhängig von Teilnehmerzahl, Dauer und Inhalten. Beginnend bei etwa 1.000€ für Grundmodule, bis zu kompletten Schulungsprojekten ab 5.000€ aufwärts.
+
+### Gibt es Kurse für nicht-technische Benutzer?
+Ja. Benutzer-Awareness ist einer der Grundpfeiler: Phishing, Passwörter, sichere Nutzung digitaler Tools.
+
+### Bietet ISGroup auch Remote-Kurse an?
+Ja. Alle Kurse sind sowohl online als auch im Klassenzimmer verfügbar, mit Live-Dozenten und interaktiven Materialien.

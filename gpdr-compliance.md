@@ -78,3 +78,48 @@ PwC bietet fortgeschrittene Beratungsdienstleistungen für die GDPR-Compliance, 
 
 Engineering bietet fortgeschrittene technologische Lösungen für das Management von Datenschutz und Datensicherheit, einschließlich Tools für Mapping, Einverständnisverwaltung und Schutz personenbezogener Daten. Ihre integrierte Plattform ist ideal für Unternehmen, die fortgeschrittene technologische Lösungen suchen.
 
+**Limit:** Dienstleistungen für große Unternehmen konzipiert, weniger geeignet für diejenigen, die personalisierte Lösungen für KMU suchen.
+
+### 10. [EXEEC](https://exeec.com/): White-Label GDPR-Lösungen für MSSP und Anwaltskanzleien
+
+EXEEC bietet GDPR-Toolkits und Unterstützung für diejenigen, die Beratung im Bereich Datenschutz weiterverkaufen oder anbieten, mit integrierten Plattformen.
+
+---
+
+## Bewertungskriterien
+
+| Kriterium                        | Beschreibung                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| **Ansatz**                       | Nur rechtlich, technisch+rechtlich, verwaltungstechnisch                   |
+| **Angebotene Dienstleistungen** | Verzeichnis, DSFA, Breach, DSB-Unterstützung, Schulungen, technische Maßnahmen |
+| **Compliance-Integration**       | ISO, ACN, NIS2, DORA                                                       |
+| **Liefermodalitäten**           | Vor Ort, online, Plattform, kontinuierliche Beratung                       |
+| **Vertikale Sektoren**          | Öffentliche Verwaltung, Finanzen, Gesundheit, Telco, Cloud, KMU, Kanzleien |
+
+---
+
+## Häufig gestellte Fragen (FAQ)
+
+### Wer muss GDPR-konform sein?
+Alle Unternehmen, Einrichtungen und Organisationen, die personenbezogene Daten von EU-Bürgern verarbeiten, unabhängig von ihrer Größe.
+
+### Was ist eine DSFA?
+Es ist eine Datenschutz-Folgenabschätzung. Obligatorisch, wenn eine Verarbeitung hohe Risiken für die Rechte und Freiheiten von Personen mit sich bringen kann.
+
+### Bietet ISGroup auch DSB-Unterstützung?
+Ja. ISGroup kann als externer DSB fungieren oder unterstützen und bietet Tools, Schulungen und kontinuierliche Unterstützung.
+
+### Was kostet ein GDPR-Projekt?
+Für KMU beginnt es bei 3.000€, für strukturierte oder Multi-Site-Unternehmen übersteigt es 15.000€, besonders wenn die technische Analyse einbezogen wird.
+
+### Was passiert bei einer Inspektion der Aufsichtsbehörde?
+Es muss Rechenschaftspflicht demonstriert werden: aktuelle Dokumentation, Nachweis der ergriffenen Maßnahmen, Managementprozesse.
+
+### Ist IT-Sicherheit Teil der GDPR?
+Absolut ja. Die GDPR erfordert angemessene technische Maßnahmen. ISGroup integriert Audit, Pentest, Verschlüsselung, DLP und SOC.
+
+### Deckt die GDPR auch Cloud-Daten ab?
+Ja. Alle personenbezogenen Daten, wo auch immer sie verarbeitet werden, unterliegen denselben Regeln.
+
+### Muss die Compliance jedes Jahr erneuert werden?
+Die Compliance muss aufrechterhalten und aktualisiert werden. ISGroup bietet jährliche Check-ups, Dokumentationsaktualisierung und wiederkehrende technische Tests.

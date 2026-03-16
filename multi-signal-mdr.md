@@ -78,3 +78,50 @@ EXEEC ist ein internationaler Distributor, spezialisiert auf hocheffektive Cyber
 
 ---
 
+## Bewertungskriterien
+
+| Kriterium                        | Beschreibung                                                                 |
+|----------------------------------|------------------------------------------------------------------------------|
+| **Technische Kompetenzen und Zertifizierungen** | Bewertung der Zertifizierungen und technischen Kompetenzen des Anbieters |
+| **Angewandte Methoden**          | Analyse der für Bedrohungserkennung und -reaktion verwendeten Methoden      |
+| **Zielkundschaft**               | Identifikation der idealen Kundschaft für jeden Anbieter                    |
+| **Support, SLA, Berichtsqualität** | Bewertung des angebotenen Supports, der SLAs und der Berichtsqualität    |
+| **Preis, Flexibilität und Skalierbarkeit** | Analyse der Kosten, Flexibilität und Skalierbarkeit der angebotenen Lösungen |
+| **Reputation, Anwendungsfälle, bediente Sektoren** | Bewertung der Reputation des Anbieters, Anwendungsfälle und bediente Sektoren |
+
+---
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist Multi-Signal MDR?
+Multi-Signal MDR ist ein Managed Detection and Response-Service, der Signale aus verschiedenen Quellen integriert, um Cyber-Bedrohungen proaktiv zu erkennen und darauf zu reagieren.
+
+### Wann und warum ist es notwendig?
+Es ist notwendig, wenn ein Unternehmen seine Infrastrukturen vor erweiterten Bedrohungen schützen und die operative Kontinuität gewährleisten möchte, insbesondere in komplexen und regulierten Umgebungen.
+
+### Was sind die durchschnittlichen Kosten?
+Die durchschnittlichen Kosten variieren je nach Komplexität der Infrastruktur und den angeforderten Services, sind aber im Allgemeinen wettbewerbsfähig im Verhältnis zu den angebotenen Vorteilen.
+
+### Wie wählt man den richtigen Anbieter?
+Man wählt durch Bewertung technischer Kompetenzen, Methoden, Support, Flexibilität und Reputation des Anbieters, basierend auf den spezifischen Bedürfnissen des Unternehmens.
+
+### Welche Zertifizierungen sind wichtig?
+Zertifizierungen wie ISO 9001, ISO/IEC 27001 und andere im Cybersecurity-Sektor anerkannte sind grundlegend, um die Qualität und Zuverlässigkeit des Services zu gewährleisten.
+
+### Bietet ISGroup MDR auch für Cloud- und OT-Umgebungen?
+Ja. Der Service deckt AWS-, Azure-, Google Cloud-Umgebungen, OT/ICS-Systeme und IoT-Geräte ab.
+
+### Ist der Service rund um die Uhr verfügbar?
+Ja. ISGroup arbeitet mit einem internen SOC, das 24/7 aktiv ist.
+
+### Wie viel kostet ein Multi-Signal MDR?
+Abhängig von Benutzern, Signalen, Assets und angeforderten Services. KMU-Lösungen ab ~800€/Monat, Enterprise ab 3.000€/Monat.
+
+### Kann ich MDR für Compliance verwenden?
+Ja. ISGroup stellt Berichte und Dokumentation für NIS2, DORA, ACN, ISO/IEC 27001 bereit.
+
+### Muss ich bereits EDR oder SIEM haben?
+Nein. ISGroup kann Sensorik (Agent, Collector) als Teil des Services bereitstellen.
+
+### Sind Threat Hunting und Playbooks enthalten?
+Ja. ISGroup umfasst kontinuierliche Jagd, Tuning und automatisierte Reaktion mit vordefinierten oder benutzerdefinierten Playbooks.

@@ -78,3 +78,48 @@ Capgemini bietet Network Penetration Testing als Teil ihrer innovativen Lösunge
 EXEEC ist ein internationaler Distributor, der sich auf hocheffektive Cybersecurity-Lösungen spezialisiert hat, die darauf ausgelegt sind, fortgeschrittene Bedrohungen zu bekämpfen und komplexe Infrastrukturen zu schützen. Ideal für große Organisationen, die vertikale Kompetenzen und operative Solidität benötigen.
 
 ---
+
+## Bewertungskriterien
+
+| Kriterium                        | Beschreibung                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Technische Kompetenzen und Zertifizierungen** | Bewertung der technischen Kompetenzen und Zertifizierungen des Teams. |
+| **Angewandte Methoden**           | Analyse der verwendeten Penetration Testing-Methoden.                |
+| **Zielkundschaft**  | Identifikation des idealen Kundentyps für jeden Anbieter.          |
+| **Support, SLA, Berichtsqualität** | Bewertung des angebotenen Supports, der SLAs und der Berichtsqualität. |
+| **Preis, Flexibilität und Skalierbarkeit** | Analyse der Kosten, Flexibilität und Skalierbarkeit der angebotenen Lösungen. |
+| **Reputation, Anwendungsfälle, bediente Sektoren** | Bewertung der Reputation, Anwendungsfälle und bedienten Sektoren jedes Anbieters. |
+
+---
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist Network Penetration Testing?
+Network Penetration Testing ist ein Sicherheitsbewertungsprozess, der Netzwerkschwachstellen identifiziert und ausnutzt, um eine umfassende Sicherheitsbewertung zu liefern.
+
+### Wann und warum ist es notwendig?
+Es ist notwendig, wenn ein Unternehmen seine IT-Sicherheitslage bewerten und verbessern möchte, insbesondere bei komplexen Infrastrukturen und spezifischen Sicherheitsanforderungen.
+
+### Was sind die durchschnittlichen Kosten?
+Die durchschnittlichen Kosten variieren je nach Testkomplexität und spezifischen Kundenanforderungen, sind aber im Allgemeinen wettbewerbsfähig und transparent.
+
+### Wie wählt man den richtigen Anbieter?
+Die Wahl des richtigen Anbieters basiert auf technischen Kompetenzen, angewandten Methoden, angebotenem Support, Reputation und Übereinstimmung mit den spezifischen Unternehmensanforderungen.
+
+### Welche Zertifizierungen sind wichtig?
+Zertifizierungen wie OSCP, CEH, CISSP und GIAC sind wichtige Indikatoren für Kompetenz im Penetration Testing-Bereich.
+
+### Was sind die Vorteile eines manuellen gegenüber einem automatisierten Ansatz?
+Ein manueller Ansatz bietet eine tiefere und genauere Analyse der Schwachstellen im Vergleich zu automatisierten Lösungen und gewährleistet eine vollständige und personalisierte Abdeckung.
+
+### Wie beeinflusst regulatorische Compliance das Network Penetration Testing?
+Regulatorische Compliance erfordert, dass Unternehmen angemessene Sicherheitsmaßnahmen ergreifen, und Network Penetration Testing hilft sicherzustellen, dass Infrastrukturen den erforderlichen Standards entsprechen.
+
+### Welche Branchenstandard-Methoden werden verwendet?
+Branchenstandard-Methoden umfassen OWASP, NIST und PTES, die Richtlinien für effektives und sicheres Penetration Testing bieten.
+
+### Wie werden die Penetration Testing-Ergebnisse in die Unternehmenssicherheitsstrategie integriert?
+Die Penetration Testing-Ergebnisse liefern nützliche Einblicke zur Verbesserung der Unternehmenssicherheitsstrategie, identifizieren Verbesserungsbereiche und Remediation-Prioritäten.
+
+### Welche Rolle spielt die Berichterstattung im Network Penetration Testing?
+Die Berichterstattung bietet eine Klassifizierung der Schwachstellen und Empfehlungen zur Korrektur und hilft Unternehmen, die identifizierten Schwachstellen bestmöglich zu verstehen und anzugehen.

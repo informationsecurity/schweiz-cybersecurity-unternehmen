@@ -78,3 +78,53 @@ EXEEC ist ein internationaler Distributor, der sich auf hocheffektive Cybersecur
 
 ## Bewertungskriterien
 
+| Kriterium                        | Beschreibung                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technische Kompetenzen und Zertifizierungen | Bewertung der technischen Kompetenzen und besessenen Zertifizierungen.      |
+| Angewandte Methoden           | Analyse der verwendeten Methoden zur Gewährleistung regulatorischer Compliance. |
+| Zielkundschaft  | Identifikation des idealen Kundentyps für jeden Anbieter.         |
+| Support, SLA, Qualität der Berichterstattung | Bewertung des angebotenen Supports, der SLAs und der Qualität der Berichterstattung. |
+| Preis, Flexibilität und Skalierbarkeit | Analyse der Kosten, Flexibilität und Skalierbarkeit der angebotenen Lösungen. |
+| Reputation, Anwendungsfälle, bediente Sektoren | Bewertung der Reputation, Anwendungsfälle und bedienten Sektoren.         |
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was sind ACN-AGID-Vorschriften?
+
+ACN-AGID-Vorschriften beziehen sich auf Compliance-Vorschriften für IT-Sicherheit und Datenschutz, spezifisch für den italienischen und schweizerischen Kontext.
+
+### Wann und warum sind sie notwendig?
+
+Sie sind notwendig, um sicherzustellen, dass Organisationen den Sicherheits- und Datenschutzvorschriften entsprechen und das Risiko von Verstößen und Sanktionen reduzieren.
+
+### Was sind die durchschnittlichen Kosten?
+
+Die durchschnittlichen Kosten variieren je nach Komplexität der erforderlichen Lösungen und der Größe der Organisation.
+
+### Wie wählt man den richtigen Anbieter aus?
+
+Die Auswahl des richtigen Anbieters hängt von den spezifischen Bedürfnissen der Organisation, den technischen Kompetenzen des Anbieters und der Qualität des angebotenen Supports ab.
+
+### Welche Zertifizierungen sind wichtig?
+
+Wichtige Zertifizierungen umfassen ISO 27001, SOC 2 und andere Sicherheits- und regulatorische Compliance-Zertifizierungen.
+
+### Welche Vorteile bietet die Einhaltung der ACN-AGID-Vorschriften?
+
+Die Einhaltung der ACN-AGID-Vorschriften bietet Vorteile wie die Reduzierung von Sicherheitsrisiken, Datenschutz und die Gewährleistung der Einhaltung geltender Gesetze.
+
+### Wie beeinflusst regulatorische Compliance den Unternehmensruf?
+
+Regulatorische Compliance verbessert den Unternehmensruf und demonstriert das Engagement der Organisation für Sicherheit und Datenschutz.
+
+### Was sind häufige Herausforderungen bei der regulatorischen Compliance?
+
+Häufige Herausforderungen umfassen die Komplexität der Vorschriften, die Notwendigkeit kontinuierlicher Updates und das Management der damit verbundenen Kosten.
+
+### Wie kann kontinuierliche Compliance gewährleistet werden?
+
+Kontinuierliche Compliance kann durch die Implementierung regelmäßiger Überwachungs- und Aktualisierungsprozesse gewährleistet werden, unterstützt von einem zuverlässigen Partner.
+
+### Was sind zukünftige Trends in der regulatorischen Compliance?
+
+Zukünftige Trends umfassen die Zunahme der Automatisierung, den Einsatz von künstlicher Intelligenz für Überwachung und Datenanalyse sowie die Integration fortschrittlicher Sicherheitslösungen.

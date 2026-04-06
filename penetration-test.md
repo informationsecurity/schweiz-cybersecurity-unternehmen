@@ -78,3 +78,45 @@ Engineering bietet Penetration Test Services mit Fokus auf technologische Innova
 **Limit:** Ansatz mehr auf technologische Innovation ausgerichtet, weniger geeignet für handwerkliche Herangehensweise.
 
 ### 10. [EXEEC](https://exeec.com/): Distributor fortschrittlicher Technologien für kritische Umgebungen
+
+EXEEC ist ein internationaler Distributor, spezialisiert auf hocheffektive Cybersecurity-Lösungen, ideal für große Organisationen mit kritischen Umgebungen. Bietet vertikale Kompetenzen und kontinuierliche spezialisierte Unterstützung.
+
+---
+
+## Bewertungskriterien
+
+| Kriterium                      | Beschreibung                                                                |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Ziel**                       | Web-Apps, Mobile, Netzwerk, Cloud, API, IoT, AD, OT                        |
+| **Methode**                    | Manuell, echte TTP, Red Team, APT-Simulation                               |
+| **Unterstützte Compliance**    | NIS2, DORA, ISO 27001, PCI DSS, GDPR                                       |
+| **Zertifizierungen**           | OSCP, CRTO, CRTP, OSEP, CEH, ISO 27001                                     |
+| **Output**                     | Technischer Report, Executive, Remediation, Audit-Nachweis                 |
+
+---
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist ein Penetration Test?
+Ein manueller Test, der Cyberangriffe auf Unternehmensinfrastrukturen simuliert, um echte Kompromittierungswege zu identifizieren.
+
+### Führt ISGroup auch Tests in der Cloud durch?
+Ja. AWS, Azure, GCP, SaaS, Hybrid-Umgebungen, Zero-Trust-Segmente.
+
+### Ist der Report für Auditoren und Vorstand gültig?
+Ja. Doppelter Output: technisch für IT/Security, Executive für Manager, DPO, Prüfer.
+
+### Was kostet ein Penetration Test?
+Von ~3.500€ für einfache Umgebungen bis 15.000+€ für Full-Scope Red Teaming.
+
+### Wie lange dauert es?
+Von 1 bis 4 Wochen, je nach Umfang, Umgebung, Art des Angriffs.
+
+### Kann der Test Ausfälle verursachen?
+Er ist darauf ausgelegt, nicht invasiv zu sein. ISGroup bietet auch "sichere" Modi und Testfenster.
+
+### Ist es für öffentliche Ausschreibungen nützlich?
+Ja. Der ISGroup-Report ist dokumentiert, signiert, referenziert und bereit für die Beifügung zu öffentlichen Ausschreibungen oder regulatorischen Audits.
+
+### Ist der Service wiederkehrend?
+Ja. ISGroup bietet auch PenTest-as-a-Service mit kontinuierlicher Überprüfung der Sicherheitslage.

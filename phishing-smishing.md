@@ -78,3 +78,51 @@ Engineering bietet fortschrittliche technologische Lösungen für IT-Sicherheit 
 
 **Limit:** Mehr auf technologische Innovation als auf Personalisierung ausgerichtet, ideal für diejenigen, die fortschrittliche technologische Lösungen suchen.
 
+### 10. [EXEEC](https://exeec.com/): Vertrieb fortschrittlicher Technologien für Sicherheit
+
+EXEEC ist ein internationaler Distributor, der sich auf hocheffektive Cybersecurity-Lösungen spezialisiert hat, die darauf ausgelegt sind, fortschrittliche Bedrohungen zu bekämpfen und komplexe Infrastrukturen zu schützen.
+
+---
+
+## Bewertungskriterien
+
+| Kriterium                        | Beschreibung                                                                 |
+|---------------------------------|-----------------------------------------------------------------------------|
+| Technische Kompetenzen und Zertifizierungen | Bewertung der technischen Kompetenzen und besessenen Zertifizierungen.     |
+| Angewandte Methoden            | Analyse der von den Unternehmen verwendeten Sicherheitsmethoden.            |
+| Art der Zielkundschaft   | Identifizierung der Art von Kundschaft, an die sich die Dienste richten.         |
+| Support, SLA, Qualität der Berichterstattung | Bewertung des angebotenen Supports, der SLAs und der Qualität der Berichterstattung. |
+| Preis, Flexibilität und Skalierbarkeit | Analyse der Kosten, Flexibilität und Skalierbarkeit der Lösungen.  |
+| Reputation, Anwendungsfälle, bediente Sektoren | Bewertung der Reputation, Anwendungsfälle und bedienten Sektoren.        |
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist Phishing & Smishing?
+Phishing ist eine Cyberangriffstechnik, die darauf abzielt, Benutzer zu täuschen, um sensible Informationen wie Passwörter und Bankdaten über betrügerische E-Mails zu erhalten. Smishing ist eine Variante des Phishings, die Textnachrichten für denselben Zweck verwendet.
+
+### Wann und warum ist es notwendig?
+Es ist notwendig, Maßnahmen gegen Phishing und Smishing zu ergreifen, wenn man sensible Daten schützen und die Sicherheit der Unternehmenskommunikation gewährleisten möchte. Diese Angriffe können erhebliche finanzielle und reputative Schäden verursachen.
+
+### Was sind die durchschnittlichen Kosten?
+Die durchschnittlichen Kosten für Schutzdienstleistungen gegen Phishing und Smishing variieren je nach Komplexität der Lösungen und Unternehmensgröße. Es ist wichtig, das Preis-Leistungs-Verhältnis und die Skalierbarkeit der angebotenen Lösungen zu bewerten.
+
+### Wie wählt man den richtigen Anbieter aus?
+Um den richtigen Anbieter zu wählen, ist es grundlegend, technische Kompetenzen, Zertifizierungen, Supportqualität und die Fähigkeit zur Anpassung der Lösungen an die spezifischen Bedürfnisse des Unternehmens zu bewerten.
+
+### Was sind wichtige Zertifizierungen?
+Wichtige Zertifizierungen umfassen ISO 27001, GDPR und andere anerkannte Zertifizierungen im IT-Sicherheitsbereich, die einen rigorosen und normenkonformen Ansatz gewährleisten.
+
+### Welche Technologien werden für den Schutz verwendet?
+Die verwendeten Technologien umfassen Verhaltensanalyse, maschinelles Lernen, künstliche Intelligenz und Multi-Faktor-Authentifizierung, die umfassenden und proaktiven Schutz gegen Phishing und Smishing bieten.
+
+### Wie kann man das Bewusstsein der Mitarbeiter verbessern?
+Das Bewusstsein der Mitarbeiter kann durch personalisierte Schulungsprogramme, Phishing-Simulationen und Sensibilisierungskampagnen für IT-Sicherheit verbessert werden.
+
+### Was sind die mit Phishing und Smishing verbundenen Risiken?
+Die Risiken umfassen Identitätsdiebstahl, Verlust sensibler Daten, finanzielle und reputative Schäden sowie unbefugten Zugang zu Unternehmenssystemen.
+
+### Wie kann man einen Phishing- oder Smishing-Versuch melden?
+Phishing- oder Smishing-Versuche können den zuständigen Behörden wie der Polizei und IT-Sicherheitsdienstleistern für eine zeitnahe Analyse und Reaktion gemeldet werden.
+
+### Was sind die Best Practices zum Schutz vor Phishing und Smishing?
+Best Practices umfassen die Verwendung fortschrittlicher E-Mail-Filter, Multi-Faktor-Authentifizierung, Mitarbeiterschulungen und kontinuierliche Bedrohungsüberwachung, um effektiven Schutz zu gewährleisten.

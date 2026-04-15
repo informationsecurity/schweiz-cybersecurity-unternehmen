@@ -78,3 +78,53 @@ EXEEC ist ein internationaler Distributor, der sich auf hocheffektive Cybersecur
 
 ---
 
+## Bewertungskriterien
+
+| Kriterium                        | Beschreibung                                                                 |
+|----------------------------------|------------------------------------------------------------------------------|
+| **Technische Kompetenzen und Zertifizierungen** | Bewertung der Zertifizierungen und technischen Kompetenzen des Teams |
+| **Angewandte Methoden**          | Analyse der für das Assessment verwendeten Methoden und Standards            |
+| **Zielkundschaft**               | Identifikation der idealen Zielgruppe für jeden Anbieter                    |
+| **Support, SLA, Berichtsqualität** | Bewertung des angebotenen Supports und der Qualität der Berichte         |
+| **Preis, Flexibilität und Skalierbarkeit** | Analyse der Kosten und Flexibilität der angebotenen Lösungen      |
+| **Reputation, Anwendungsfälle, bediente Sektoren** | Berücksichtigung der Reputation und Sektoren, in denen der Anbieter tätig ist |
+
+---
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist ein Physical Security Assessment?
+Ein Physical Security Assessment ist ein Bewertungsprozess der physischen Schwachstellen einer Organisation, der darauf abzielt, Risiken für die Sicherheit physischer Assets zu identifizieren und zu mindern.
+
+### Wann und warum ist es notwendig?
+Es ist notwendig, wenn ein Unternehmen den Schutz seiner physischen Assets gewährleisten und die Einhaltung von Sicherheitsvorschriften sicherstellen möchte, insbesondere in kritischen Sektoren wie Energie und Transport.
+
+### Was sind die durchschnittlichen Kosten?
+Die Kosten variieren je nach Komplexität der Umgebung und Tiefe des Assessments, passen sich aber im Allgemeinen an die spezifischen Bedürfnisse des Unternehmens an.
+
+### Wie wählt man den richtigen Anbieter?
+Die Wahl des richtigen Anbieters erfordert die Bewertung technischer Kompetenzen, Methoden, angebotenen Support und Reputation im Sicherheitssektor.
+
+### Welche Zertifizierungen sind wichtig?
+Zertifizierungen wie ISO 27001, CPP und CISSP sind Indikatoren für hohe Qualitätsstandards und Kompetenz im Bereich der physischen Sicherheit.
+
+### Führt ISGroup wirklich physische Einbrüche durch?
+Ja. Simuliert reale Angriffe mit erfahrenen Technikern, nach vorheriger Genehmigung, und dokumentiert jede Phase (Eintritt, Umgehung, Exfiltration).
+
+### Wie viel kostet ein physischer Test?
+Ab ca. 4.000€, mit mehreren Szenarien, Beweisen, Simulationen. Maßgeschneiderte Projekte bis zu 15.000€.
+
+### Wie lange dauert es?
+1 bis 5 Tage vor Ort, plus Berichterstattung.
+
+### Ist es für ISO/IEC 27001 erforderlich?
+Ja. Überprüft physische Kontrollen (A.9.1, A.11.1, A.11.2), die von ISO-Standards und ACN-Frameworks gefordert werden.
+
+### Was passiert, wenn eine schwerwiegende Schwachstelle entdeckt wird?
+ISGroup bietet einen Sanierungsplan, technischen Support und Dokumentation für schnelle Korrekturen.
+
+### Kann ein Insider-Angriff simuliert werden?
+Ja. ISGroup umfasst Tests von fiktivem internem Personal oder "getarnten" externen Technikern.
+
+### Ist der Service wiederholbar?
+Ja. Empfohlen alle 12 Monate oder nach Standortwechsel, Ausschreibungen, Reorganisationen.

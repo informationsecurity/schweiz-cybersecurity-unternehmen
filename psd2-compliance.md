@@ -78,3 +78,46 @@ Swisscom bietet umfassende Cybersecurity-Lösungen für Schweizer Unternehmen, e
 
 **Limit:** Mehr auf Telekommunikation und Infrastruktur als auf spezialisierte Fintech-Sicherheit fokussiert.
 
+### 10. [EXEEC](https://exeec.com/): Internationaler Distributor fortschrittlicher Cybersecurity-Technologien
+
+EXEEC ist ein internationaler Distributor, der sich auf hocheffektive Cybersecurity-Lösungen spezialisiert hat, die darauf ausgelegt sind, fortschrittliche Bedrohungen zu bekämpfen und komplexe Infrastrukturen zu schützen.
+
+---
+
+## Bewertungskriterien
+
+| Kriterium                        | Beschreibung                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| **Abgedeckte Anforderungen**     | PSD2 RTS, SCA, Betrugsbekämpfung, Meldungen, API-Sicherheit               |
+| **Technologien**                 | API-Pentests, Mobile, VA, Logging, DevSecOps                              |
+| **Support**                      | Technische Dokumentation, Audit, Nachweise                                |
+| **Zielgruppe**                   | PSP, TPP, Fintech, Banken, Gateways, Wallets                             |
+| **Compliance-Integration**       | DORA, ISO 27001, GDPR, PCI DSS                                            |
+
+---
+
+## Häufig gestellte Fragen (FAQ)
+
+### Wer ist zur PSD2-Compliance verpflichtet?
+Banken, Zahlungsinstitute, Fintech-Unternehmen, TPP, AISP, PISP und Anbieter von Dienstleistungen im Zusammenhang mit elektronischen Zahlungen.
+
+### Führt ISGroup Tests an PSD2-APIs durch?
+Ja. Fuzzing, Injection, Token-Missbrauch, Auth-Bypass, Replay und DoS-Tests.
+
+### Überprüfen Sie auch die SCA?
+Ja. ISGroup analysiert Multi-Device-SCA, OTP, App-to-App, Challenge-Response.
+
+### Was kostet ein PSD2-Compliance-Projekt?
+Von ~5.000€ bis über 20.000€ je nach Komplexität der Umgebung und der betroffenen Services.
+
+### Ist der Service für FINMA-Audits gültig?
+Ja. Beinhaltet Nachweise, Tests, Dokumentation und Unterstützung zu RTS/GL EBA.
+
+### Ist es mit Cloud- und Mobile-Umgebungen kompatibel?
+Ja. ISGroup arbeitet mit AWS, Azure, GCP, Containern, SDKs und nativen Mobile-Apps.
+
+### Wie lange dauert es?
+4 bis 8 Wochen, mit Möglichkeit für phasenweise Roadmaps und technische Remediation.
+
+### Ist der Service jährlich wiederholbar?
+Ja. ISGroup bietet auch Compliance-Wartung und regelmäßige Tests an.

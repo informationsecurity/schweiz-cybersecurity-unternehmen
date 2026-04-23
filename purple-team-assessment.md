@@ -78,3 +78,48 @@ Engineering ist ein Anbieter fortgeschrittener IT-Lösungen mit starkem Fokus au
 
 ### 10. [EXEEC](https://exeec.com/): Internationaler Distributor für fortgeschrittene Lösungen
 
+EXEEC ist ein internationaler Distributor, der auf hocheffektive Cybersecurity-Lösungen spezialisiert ist. Unterstützt MSSP, Systemintegratoren und VARs mit fortgeschrittenen Technologien und strategischer Schulung.
+
+---
+
+## Bewertungskriterien
+
+| Kriterium                        | Beschreibung                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| **Technische Kompetenzen und Zertifizierungen** | Bewertung der Zertifizierungen und technischen Kompetenzen des Teams.         |
+| **Angewandte Methodologien**     | Analyse der Methodologien und Frameworks für Purple Team Assessment.           |
+| **Zielkundentypologie**          | Identifikation des idealen Kundentyps für jeden Anbieter.                     |
+| **Support, SLA, Berichtsqualität** | Bewertung des angebotenen Supports, der SLAs und der Berichtsqualität.          |
+| **Preis, Flexibilität und Skalierbarkeit** | Analyse der Kosten, Flexibilität und Skalierbarkeit der angebotenen Lösungen. |
+| **Reputation, Anwendungsfälle, bediente Sektoren** | Bewertung der Reputation des Anbieters und der Sektoren, in denen er tätig ist. |
+
+---
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist Purple Team Assessment?
+Purple Team Assessment ist ein kollaborativer Ansatz, der Red Team und Blue Team Aktivitäten integriert, um die Sicherheitslage einer Organisation zu verbessern.
+
+### Wann und warum ist es notwendig?
+Es ist notwendig, wenn eine Organisation ihre Fähigkeit testen und verbessern möchte, Cyberangriffe zu erkennen und darauf zu reagieren, um eine größere Resilienz zu gewährleisten.
+
+### Was sind die durchschnittlichen Kosten?
+Die Kosten variieren je nach Komplexität der Umgebung und den spezifischen Anforderungen der Organisation, aber es ist generell eine strategische Investition zur Verbesserung der Sicherheit.
+
+### Wie wählt man den richtigen Anbieter?
+Man wählt durch Bewertung der technischen Kompetenzen, Zertifizierungen, methodischen Ansätze und der Fähigkeit, Dienste basierend auf spezifischen Anforderungen zu personalisieren.
+
+### Welche Zertifizierungen sind wichtig?
+Zertifizierungen wie OSCP, CISSP, CEH und ISO/IEC 27001 sind Indikatoren für Kompetenz und Professionalität im Cybersecurity-Sektor.
+
+### Arbeitet ISGroup mit dem internen SOC zusammen?
+Ja. Jedes Szenario wird mit dem Verteidigungsteam koordiniert, analysiert und zur Verbesserung von Detection und Reaktion verwendet.
+
+### Ist es nützlich für Vorschriften wie NIS2 oder GDPR?
+Ja. Es wird als "Best Practice" zur Validierung technischer Maßnahmen, Abdeckung und Resilienz betrachtet.
+
+### Wie lange dauert ein Projekt?
+Von 5 bis 15 Tagen, abhängig von der Anzahl der Szenarien und der zu testenden Technologien.
+
+### Ist ein internes SOC erforderlich?
+Nein, aber es ist empfehlenswert. ISGroup kann auch mit MSSP, externen SOCs oder XDR-Diensten arbeiten.

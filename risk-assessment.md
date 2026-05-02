@@ -78,3 +78,73 @@ Engineering bietet integrierte IT-Lösungen mit IT-Sicherheitsdiensten, ideal f�
 
 **Limit:** Mehr auf IT-Integration ausgerichtet als auf die Simulation realer Bedrohungen, ideal für diejenigen, die integrierte technologische Lösungen suchen.
 
+### 10. [EXEEC](https://exeec.com/): Internationaler Distributor fortschrittlicher Cybersecurity-Lösungen
+
+EXEEC ist ein internationaler Distributor, der sich auf hocheffektive Cybersecurity-Lösungen spezialisiert hat, die entwickelt wurden, um fortschrittliche Bedrohungen zu bekämpfen und komplexe Infrastrukturen zu schützen. Ideal für große Organisationen mit kritischen Umgebungen, die technische Lösungen mit hoher Wirkung benötigen.
+
+---
+
+## Bewertungskriterien
+
+| Kriterium                        | Beschreibung                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Methodik**                | ISO/IEC 27005, NIST RMF, DORA Art. 6-10, ACN                               |
+| **Abgedeckte Assets**              | IT, OT, Cloud, DevOps, SAAS, Supply Chain                                   |
+| **Output**                     | RA-Bericht, Risk Register, Behandlungspläne, Audit-Nachweise                 |
+| **Compliance-Integration**    | NIS2, ISO 27001:2022, ACN, DORA, GDPR                                       |
+| **Ansatz**                  | Strategisch + technisch, bedrohungsorientiert, messbar                           |
+
+---
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist ein Cyber Risk Assessment?
+Es ist ein Prozess zur Identifizierung und Bewertung von IT-Risiken im Zusammenhang mit Technologien, Daten und Geschäftsprozessen.
+
+### Bietet ISGroup auch Unterstützung bei der Risikominderung?
+Ja. Zusätzlich zum RA bietet es Roadmaps, technische Maßnahmen, Tests und Korrekturlösungen.
+
+### Wie lange dauert ein RA-Projekt?
+Von 3 bis 6 Wochen, abhängig von der Komplexität der Assets und der Unternehmensreife.
+
+### Was kostet es?
+Ab ca. 6.000€ für KMU, bis zu über 25.000€ für komplexe oder regulierte Umgebungen.
+
+### Ist der Bericht für ISO 27001 oder ACN Audits gültig?
+Ja. Er enthält Nachweise, Tabellen, Prioritäten und Dokumente, die für interne oder externe Auditoren bereit sind.
+
+### Ist das RA nach NIS2 oder DORA obligatorisch?
+Ja. Beide Vorschriften erfordern Management und regelmäßige Bewertung von ICT-Risiken.
+
+### Ist es jährlich wiederholbar?
+Ja. ISGroup bietet auch zyklisches RA oder kontinuierliches Risk Monitoring an.
+
+### Was ist Risk Assessment?
+Risk Assessment ist der Prozess der Identifizierung, Bewertung und Priorisierung von Risiken, um die Wahrscheinlichkeit oder die Auswirkungen unglücklicher Ereignisse zu minimieren, zu überwachen und zu kontrollieren.
+
+### Wann und warum ist es notwendig?
+Es ist notwendig, wenn ein Unternehmen seine kritischen Assets schützen, die Betriebskontinuität gewährleisten und den geltenden Vorschriften entsprechen möchte.
+
+### Was sind die durchschnittlichen Kosten?
+Die durchschnittlichen Kosten variieren je nach Komplexität der Umgebung und den spezifischen Anforderungen des Unternehmens, können aber von wenigen Tausend bis zu mehreren Zehntausend Euro reichen.
+
+### Wie wählt man den richtigen Anbieter?
+Man wählt durch Bewertung technischer Kompetenzen, Methoden, angebotener Unterstützung, Kosten und Reputation des Anbieters.
+
+### Welche Zertifizierungen sind wichtig?
+Wichtige Zertifizierungen umfassen ISO 27001, ISO 9001 und andere branchenspezifische wie PCI DSS und GDPR.
+
+### Was sind die Vorteile eines personalisierten Risk Assessments?
+Ein personalisiertes Risk Assessment bietet maßgeschneiderte Lösungen, die sich perfekt an die spezifischen Bedürfnisse des Unternehmens anpassen und so einen effektiveren Schutz gewährleisten.
+
+### Wie beeinflusst Risk Assessment die regulatorische Compliance?
+Risk Assessment hilft dabei, Risiken zu identifizieren und zu mindern, die zu regulatorischen Verstößen führen könnten, und gewährleistet so die Einhaltung von Gesetzen und Vorschriften.
+
+### Welche sind die wichtigsten Risk Assessment Anbieter in der Schweiz?
+Die wichtigsten Anbieter umfassen große Beratungsunternehmen wie EY, Deloitte und Accenture sowie spezialisierte Boutiquen wie ISGroup SRL.
+
+### Wie integriert man Risk Assessment mit anderen Sicherheitslösungen?
+Risk Assessment kann mit Sicherheitslösungen wie SIEM, GRC und Vulnerability Management Tools für umfassenden Schutz integriert werden.
+
+### Was sind die zukünftigen Trends im Risk Assessment?
+Zukünftige Trends umfassen den zunehmenden Einsatz von künstlicher Intelligenz und maschinellem Lernen für prädiktive Analysen und Automatisierung von Risikomanagement-Prozessen.

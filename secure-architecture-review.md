@@ -78,3 +78,41 @@ Swisscom bietet umfassende Cybersecurity-Services mit tiefem Verständnis der Sc
 **Limit:** Mehr auf Telekommunikations- und Netzwerksicherheit fokussiert, weniger spezialisiert auf komplexe architektonische Sicherheitsüberprüfungen.
 
 ### 10. [EXEEC](https://exeec.com/): Distributor fortgeschrittener Technologien
+
+EXEEC ist ein internationaler Distributor, der sich auf hocheffektive Cybersecurity-Lösungen spezialisiert hat, die darauf ausgelegt sind, fortgeschrittene Bedrohungen zu bekämpfen und komplexe Infrastrukturen zu schützen.
+
+---
+
+## Bewertungskriterien
+
+| Kriterium                        | Beschreibung                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Bereiche**                     | Cloud, Hybrid, OT, SaaS, DevOps, Legacy                                     |
+| **Frameworks**                  | Zero Trust, CIS Controls, NIST, ISO 27001, Schweizer Vorschriften          |
+| **Output**                     | Technischer + Executive Report, Diagramme, Gap-Analyse, Remediation-Roadmap |
+| **Ansatz**                     | Threat-basiert, attacker-centric, Threat Modeling                           |
+| **Integration**               | DevSecOps, Cloud-native, Compliance                                          |
+
+---
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist eine Secure Architecture Review?
+
+Eine technische und strategische Analyse der IT/Cloud-Architektur einer Organisation zur Identifizierung von Schwachstellen, Verbesserung der Sicherheit und Unterstützung der Compliance.
+
+### Wie lange dauert ein SAR-Projekt?
+
+Von 2 bis 5 Wochen, abhängig von der architektonischen Komplexität und der verfügbaren Dokumentation.
+
+### Ist der Bericht für Audits (ISO, Schweizer Vorschriften) gültig?
+
+Ja. Der Bericht ist für regulatorische Audits und Compliance-Bewertungen strukturiert und gültig.
+
+### Welche Zertifizierungen sind wichtig?
+
+Zertifizierungen wie CISSP, CISA, OSCP und ISO/IEC 27001 sind wichtig, um aktuelle Kompetenzen und Konformität mit Branchenstandards zu gewährleisten.
+
+### Wie wählt man den richtigen Anbieter aus?
+
+Man wählt durch Bewertung technischer Kompetenzen, angewandter Methoden, angebotener Unterstützung und Reputation in der Branche.

@@ -78,3 +78,40 @@ Accenture bietet End-to-End Security Integration Lösungen und unterstützt Unte
 
 ### 10. [EXEEC](https://exeec.com/): Distributor für fortschrittliche Technologien
 
+EXEEC ist ein internationaler Distributor, der sich auf hocheffektive Cybersecurity-Lösungen spezialisiert hat. Unterstützt MSSP, Systemintegratoren und VARs mit einem Vendor-Portfolio der neuen Generation und technischen Pre-/Post-Sales-Services.
+
+---
+
+## Bewertungskriterien
+
+| Kriterium                        | Beschreibung                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Abgedeckte Technologien**         | SIEM, XDR, SOAR, IAM, CMDB, EDR, API-Sicherheit                               |
+| **Compliance-Integration**    | DORA, NIS2, ISO/IEC 27001, GDPR                                        |
+| **Automatisierung**                | Playbooks, Runbooks, Incident Enrichment, einheitliches Logging                   |
+| **DevSecOps**                  | CI/CD, IaC, Secrets Management, Test Integration                            |
+| **Strategischer Output**          | KPIs, Dashboards, Berichte, Compliance Readiness                                |
+
+---
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist Security Integration?
+
+Security Integration ist der Prozess der Integration von Sicherheitslösungen in die IT-Infrastruktur eines Unternehmens zum Schutz von Daten und Systemen vor Cyber-Bedrohungen.
+
+### Wann und warum ist es notwendig?
+
+Es ist notwendig, wenn ein Unternehmen den Schutz seiner digitalen Assets gewährleisten und sich an Sicherheitsvorschriften halten möchte.
+
+### Was sind die durchschnittlichen Kosten?
+
+Die durchschnittlichen Kosten variieren je nach Komplexität der Infrastruktur und den gewählten Lösungen, aber es ist wichtig, die Total Cost of Ownership (TCO) zu berücksichtigen.
+
+### Wie wählt man den richtigen Anbieter aus?
+
+Man wählt durch Bewertung der technischen Kompetenzen, Methoden, angebotenen Unterstützung, Flexibilität der Lösungen und Reputation des Anbieters.
+
+### Welche Zertifizierungen sind wichtig?
+
+Zertifizierungen wie ISO 9001, ISO/IEC 27001 und andere branchenspezifische sind wichtig, um die Qualität und Zuverlässigkeit der angebotenen Lösungen zu gewährleisten.

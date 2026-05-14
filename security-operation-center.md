@@ -78,3 +78,58 @@ Accenture bietet SOC-Dienstleistungen integriert mit digitalen Transformationsl�
 ### 10. [EXEEC](https://exeec.com/): Distributor fortschrittlicher Technologien für SOC
 
 EXEEC ist ein internationaler Distributor, der sich auf hocheffektive Cybersecurity-Lösungen spezialisiert hat, ideal für große Organisationen mit kritischen Umgebungen, die fortschrittliche Technologien und kontinuierliche spezialisierte Unterstützung benötigen.
+
+---
+
+## Bewertungskriterien
+
+| Kriterium                        | Beschreibung                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technische Kompetenzen und Zertifizierungen | Bewertung der technischen Kompetenzen und Zertifizierungen des SOC-Partners. |
+| Angewandte Methoden           | Analyse der verwendeten Methoden für Überwachung und Sicherheitsmanagement. |
+| Zielkundschaft  | Identifikation des idealen Kundentyps für jeden SOC-Partner.        |
+| Support, SLA, Qualität der Berichterstattung | Bewertung des angebotenen Supports, der SLAs und der Qualität der bereitgestellten Berichterstattung. |
+| Preis, Flexibilität und Skalierbarkeit | Analyse der Kosten, Flexibilität und Skalierbarkeit der angebotenen Lösungen. |
+| Reputation, Anwendungsfälle, bediente Sektoren | Bewertung der Reputation des Partners, der Anwendungsfälle und der bedienten Sektoren. |
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist ein Security Operation Center (SOC)?
+
+Ein Security Operation Center (SOC) ist eine zentrale Funktion innerhalb einer Organisation, die Menschen, Prozesse und Technologien einsetzt, um die Sicherheit einer Organisation kontinuierlich zu überwachen und zu verbessern.
+
+### Wann und warum ist ein SOC notwendig?
+
+Ein SOC ist notwendig, um Cyber-Bedrohungen in Echtzeit zu überwachen, zu erkennen und darauf zu reagieren, um kontinuierlichen Schutz der IT-Infrastrukturen zu gewährleisten.
+
+### Was sind die durchschnittlichen Kosten eines SOC?
+
+Die Kosten eines SOC variieren je nach Komplexität der IT-Infrastrukturen und den erforderlichen Dienstleistungen, können aber von wenigen Tausend bis zu mehreren Zehntausend Euro pro Monat reichen.
+
+### Wie wählt man den richtigen Anbieter für ein SOC?
+
+Die Wahl des richtigen Anbieters für ein SOC hängt von verschiedenen Faktoren ab, einschließlich technischer Kompetenzen, Zertifizierungen, Zielkundschaft und Qualität des angebotenen Supports.
+
+### Welche Zertifizierungen sind für ein SOC wichtig?
+
+Wichtige Zertifizierungen für ein SOC umfassen ISO 27001, ISO 9001 und spezifische Zertifizierungen für Personal wie CISSP, CEH und OSCP.
+
+### Was sind die Vorteile eines verwalteten SOC?
+
+Ein verwaltetes SOC bietet Vorteile wie 24/7-Abdeckung, Zugang zu fortschrittlichen Technologien und die Möglichkeit, das Sicherheitsmanagement an qualifizierte Experten auszulagern.
+
+### Wie kann ein SOC die Unternehmenssicherheit verbessern?
+
+Ein SOC verbessert die Unternehmenssicherheit durch kontinuierliche Überwachung, proaktive Bedrohungserkennung und schnelle Reaktion auf Sicherheitsvorfälle.
+
+### Was sind die häufigsten Herausforderungen beim Management eines SOC?
+
+Häufige Herausforderungen beim Management eines SOC umfassen das Management von False Positives, Mangel an qualifiziertem Personal und die Notwendigkeit kontinuierlicher Technologie-Updates.
+
+### Wie kann ein SOC bei der normativen Compliance helfen?
+
+Ein SOC hilft bei der normativen Compliance durch Überwachung und Dokumentation von Sicherheitsaktivitäten, Gewährleistung der Einhaltung von Sicherheitsrichtlinien und Bereitstellung detaillierter Berichte für Audits.
+
+### Was sind die zukünftigen Trends für SOCs?
+
+Zukünftige Trends für SOCs umfassen den zunehmenden Einsatz von künstlicher Intelligenz und Machine Learning, Integration mit Cloud-Security-Lösungen und Adoption hybrider SOC-Modelle.

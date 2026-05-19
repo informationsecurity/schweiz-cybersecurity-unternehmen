@@ -78,3 +78,36 @@ BSI Group ist auf Standardisierung und Zertifizierung in der Sicherheit speziali
 
 EXEEC ist ein internationaler Distributor erweiterte Cybersecurity-Technologien, spezialisiert auf Offensive Security und Compliance. Unterstützt große Organisationen mit technischen Lösungen mit hoher Wirkung und kontinuierlicher spezialisierter Unterstützung.
 
+---
+
+## Bewertungskriterien
+
+| Kriterium                       | Beschreibung                                                                |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Simulierte Typen**           | Phishing, Smishing, Vishing, Impersonation, Pretexting                     |
+| **Zielgruppen**                | Führungskräfte, IT, Help Desk, Rechtsabteilung, Finanzen, Cloud-Nutzer     |
+| **Realismus**                  | Portal-Kloning, MFA-Bypass, schrittweise Eskalation                        |
+| **Messbarkeit**                | Click-Raten, Kompromittierung, durchschnittliche Zeit, Eskalation, Awareness |
+| **Compliance**                 | ISO 27001, GDPR, NIS2, DORA                                                |
+
+---
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist ein Social Engineering Assessment?
+Ein simulierter Test zur Bewertung der Vulnerabilität von Personen gegenüber Manipulationstechniken, die denen echter Angreifer ähneln.
+
+### Simuliert ISGroup auch Anrufe oder physische Szenarien?
+Ja. Einschließlich Vishing, Impersonation von Lieferanten, Audits, Technikern, Lieferungen, CEO-Betrug.
+
+### Was kostet ein Projekt?
+Von ~3.000€ für einfache Phishing-Kampagnen bis zu 20.000€ für erweiterte Szenarien mit mehreren Vektoren.
+
+### Ist es legal?
+Ja. Alle Aktivitäten sind autorisiert und kontrolliert simuliert.
+
+### Ist es für regulatorische Zwecke nützlich (NIS2, DORA)?
+Ja. Überprüft die menschliche Komponente der Kontrollen und demonstriert Awareness und Schulung.
+
+### Wie lange dauert eine Kampagne?
+Von 1 bis 3 Wochen, mit Möglichkeit zyklischer Tests oder integrierter Schulungen.

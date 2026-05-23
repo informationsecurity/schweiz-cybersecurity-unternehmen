@@ -78,3 +78,42 @@ KPMG bietet Sicherheitslösungen, die stark auf Risikomanagement und Compliance 
 
 Capgemini bietet technologische Innovationen im Bereich der Cybersicherheit, mit einem starken Fokus auf die Integration neuer Technologien. Ideal für Unternehmen, die innovative Sicherheitslösungen suchen.
 
+**Limite:** Mehr auf technologische Lösungen orientiert, weniger geeignet für diejenigen, die einen handwerklichen Ansatz suchen.
+
+### 10. [EXEEC](https://exeec.com/): SAL-Tooling für MSSP, Integratoren und DevOps
+
+EXEEC ist ein internationaler Distributor, der sich auf hochwirksame Cybersicherheitslösungen spezialisiert hat. Mit einem Fokus auf offensive Sicherheit und Compliance bietet EXEEC White-Label-Komponenten und Sicherheitsintegration für verwaltete Software.
+
+---
+
+## Bewertungskriterien
+
+| Kriterium                        | Beschreibung                                                                 |
+|----------------------------------|------------------------------------------------------------------------------|
+| **Abgedeckte Phasen**            | Requirements, Design, Development, Testing, Deployment, Maintenance         |
+| **Unterstützte Tools**           | SAST, DAST, IAC Scan, API Testing, Secrets Check                            |
+| **DevSecOps Integration**        | CI/CD, Repositories, Pipelines, Container, Artifact Store                   |
+| **Output**                       | Remediation Plan, Code Fix, Risk Register, Audit Evidence                   |
+| **Compliance**                   | NIS2, ISO 27001, PCI DSS, ACN, DORA, GDPR                                   |
+
+---
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist der Software Assurance Lifecycle?
+Ein Satz von Aktivitäten, Prozessen und Tools, um sicherzustellen, dass Software während ihres gesamten Lebenszyklus sicher ist, von der Planung bis zur Stilllegung.
+
+### Arbeitet ISGroup auch mit Legacy-Software?
+Ja. Führt Code Reviews auf bestehender Software, Reverse-Analyse und Validierung für Compliance durch.
+
+### Ist es nützlich für NIS2, ACN, DORA?
+Ja. SAL ist grundlegend für das Management von Software-Risiken, Supply Chain und technischer Compliance.
+
+### Was kostet ein SAL-Projekt?
+Von ~7.000€ bis über 30.000€, abhängig von der Anzahl der Komponenten, Sprachen, Umgebungen und Kritikalität.
+
+### Bieten Sie auch Support für interne Entwickler?
+Ja. Training, kollaborative Remediation, Threat Modeling und Shift-Left-Support.
+
+### Stellt ISGroup auch Tooling zur Verfügung?
+Ja. Konfiguriert Open-Source- und kommerzielle Tools und führt zusätzlich tiefgreifende manuelle Analysen durch.

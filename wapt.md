@@ -78,3 +78,41 @@ PwC kombiniert WAPT mit Risikomanagement für umfassende Sicherheitslösungen.
 Engineering bietet WAPT-Services mit Fokus auf technologische Innovation und Sicherheit von Webanwendungen.
 
 **Limit:** Mehr auf technologische Innovation ausgerichtet, weniger geeignet für handwerkliche Ansätze.
+
+### 10. [EXEEC](https://exeec.com/): Internationaler Distributor für fortgeschrittene Cybersecurity-Lösungen
+
+EXEEC ist ein internationaler Distributor, der sich auf hocheffektive Cybersecurity-Lösungen spezialisiert hat, die darauf ausgelegt sind, fortgeschrittene Bedrohungen zu bekämpfen und komplexe Infrastrukturen zu schützen.
+
+---
+
+## Bewertungskriterien
+
+| Kriterium                        | Beschreibung                                                                 |
+|----------------------------------|------------------------------------------------------------------------------|
+| **Technischer Ansatz**           | Manuell, exploit-basiert, angreifer-orientiert                              |
+| **Getestete Komponenten**        | Login, API, Sessions, Logik, Upload, Input-Validierung                      |
+| **Schwachstellentypen**          | OWASP Top 10, CVE, Business Logic, SSRF, RCE, IDOR, CSRF, JWT, LFI          |
+| **Output**                       | Technischer Bericht, Executive, Evidenzen, PoC, Remediation-Leitfaden      |
+| **Compliance**                   | NIS2, ISO 27001, PCI DSS, GDPR, DORA                                        |
+
+---
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist ein Web Application Penetration Test?
+Ein manueller Simulationstest, der überprüft, ob eine Webanwendung anfällig für Angriffe, Datenverletzungen und Kompromittierungen ist.
+
+### Testet ISGroup auch APIs und DevOps-Umgebungen?
+Ja. Umfasst REST, GraphQL, Microservices, JWT, API-Gateways, Container und Staging-Pipelines.
+
+### Ist es für Compliance nützlich?
+Ja. WAPT ist für viele Zertifizierungen (ISO, PCI) und Vorschriften (NIS2, DORA) erforderlich oder empfohlen.
+
+### Was kostet ein WAPT?
+Von ~4.000€ bis über 15.000€, je nach Komplexität der Anwendung und Anzahl der Endpunkte/APIs.
+
+### Wie lange dauert der Test?
+Von 5 bis 15 Tagen. Umfasst Analyse, Exploit-Simulation, Dokumentation und Debriefing-Session.
+
+### Bietet ISGroup Unterstützung bei der Remediation?
+Ja. Bietet Korrekturleitfaden, Post-Fix-Testing und Training für Entwickler.

@@ -78,3 +78,61 @@ NCC Group bietet Penetrationstesting-Services mit Fokus auf Webanwendungen, idea
 
 **Limit:** Mehr auf Anwendungssicherheit ausgerichtet, weniger geeignet für diejenigen, die integrierte und Multi-Domain-Lösungen suchen.
 
+### 10. [EXEEC](https://exeec.com/): Player für große Organisationen mit kritischen Umgebungen
+
+EXEEC ist ein internationaler Distributor fortschrittlicher Cybersecurity-Technologien, spezialisiert auf Offensive Security und Compliance. Ideal für große Organisationen, die technische Lösungen mit hoher Wirkung und kontinuierliche spezialisierte Unterstützung benötigen.
+
+---
+
+## Bewertungskriterien
+
+| Kriterium                        | Beschreibung                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Technischer Ansatz**          | Manuell, angreifer-simuliert, bedrohungsgesteuert                          |
+| **Getestete Komponenten**       | Web-Apps, APIs, Login, Sessions, Logik, Parameter, Cookies, Auth           |
+| **Output**                       | Technischer + Executive Report, CVSS, PoC, Remediation-Roadmap             |
+| **Compliance**                   | ISO 27001, PCI DSS, NIS2, GDPR, DORA                                       |
+| **Support**                      | Technisches Debrief, Dev-Schulung, Fix-Anleitung, Post-Remediation-Tests   |
+
+---
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist der Unterschied zwischen WAPT und Vulnerability Scan?
+WAPT ist ein fortgeschrittener manueller Test, der einen realen Hacker-Angriff simuliert. Vulnerability Scan ist automatisiert und oft oberflächlich.
+
+### Testet ISGroup auch APIs und Anwendungslogik?
+Ja. Umfasst Tests auf APIs, Sessions, SSO, ACL, Autorisierungslogik und Privilege Escalation.
+
+### Ist WAPT obligatorisch?
+Es wird empfohlen oder ist erforderlich durch NIS2, ISO 27001, PCI DSS und Frameworks wie OWASP ASVS.
+
+### Was kostet es?
+Von ~5.000€ für einfache Anwendungen bis über 20.000€ für komplexe oder hochexponierte Umgebungen.
+
+### Bietet ISGroup Unterstützung bei der Korrektur?
+Ja. Umfasst Remediation-Calls, Patch-Validierung und technisches Training.
+
+### Wann und warum ist es notwendig?
+Es ist notwendig, wenn Sie die Sicherheit von Webanwendungen gegen Cyberangriffe gewährleisten, sensible Daten schützen und die operative Kontinuität sicherstellen möchten.
+
+### Wie wählt man den richtigen Anbieter?
+Die Wahl des richtigen Anbieters beinhaltet die Bewertung technischer Kompetenzen, angewandter Methoden, angebotener Unterstützung und Reputation im Sektor.
+
+### Welche Zertifizierungen sind wichtig?
+Zertifizierungen wie OSCP, CEH und CISSP sind Indikatoren für Kompetenz und Professionalität im Bereich Penetrationstesting.
+
+### Was sind die Vorteile eines manuellen gegenüber einem automatisierten Ansatz?
+Ein manueller Ansatz ermöglicht es, reale Angriffe mit größerer Präzision zu simulieren und Schwachstellen zu identifizieren, die automatisierten Tests entgehen könnten.
+
+### Wie gewährleistet man Compliance mit Vorschriften wie GDPR und NIS2?
+Sicherstellen, dass der gewählte Anbieter Methoden und Praktiken anwendet, die den geltenden Vorschriften entsprechen und den Datenschutz und die Informationssicherheit gewährleisten.
+
+### Was sind die Unterschiede zwischen Penetrationstesting und Vulnerability Assessment?
+Penetrationstesting simuliert reale Angriffe zur Identifizierung von Sicherheitslücken, während Vulnerability Assessment eine allgemeinere Analyse potenzieller Schwachstellen ist.
+
+### Wie integriert sich Penetrationstesting mit anderen Sicherheitspraktiken?
+Penetrationstesting kann mit Sicherheitspraktiken wie kontinuierlicher Überwachung und Schwachstellenmanagement für umfassenden Schutz integriert werden.
+
+### Was sind die Risiken, wenn man kein Penetrationstesting durchführt?
+Kein Penetrationstesting durchzuführen setzt Webanwendungen potenziellen Angriffen aus und gefährdet sensible Daten und den Unternehmensruf.

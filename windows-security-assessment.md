@@ -78,3 +78,38 @@ PwC bietet personalisierte Sicherheitslösungen mit Fokus auf Datenschutz und Ri
 Deloitte bietet Windows Security Assessment-Dienste, die in Audit-Prozesse integriert sind, mit Fokus auf Compliance, Identitätsmapping und GPO-Richtliniensicherheit.
 
 **Limit:** Verfahrensorientierte und Compliance-Ausrichtung; geringerer Schwerpunkt auf Angriffstechniken oder reale Exploits.
+
+### 10. [EXEEC](https://exeec.com/): Tools und Know-how für MSSP und Integratoren
+
+EXEEC bietet Frameworks, Skripte und technische Unterstützung für die Bewertung der AD-Sicherheit und Privilege Escalation für MSSPs und Partner.
+
+---
+
+## Bewertungskriterien
+
+| Kriterium                      | Beschreibung                                                                |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Technischer Ansatz**        | Manuell, angreiferbasiert, Eskalationspfad-Analyse                        |
+| **Getestete Komponenten**     | Windows Server, Active Directory, M365, Azure AD, GPO, Registry, SID      |
+| **Erkannte Schwachstellen**   | Kerberoasting, Pass-the-Hash, Fehlkonfigurationen, gespeicherte Anmeldedaten |
+| **Ausgabe**                    | Technischer + Executive-Bericht, PoC, Roadmap, Remediation-Unterstützung  |
+| **Compliance**                 | ISO/IEC 27001, GDPR, NIS2, PCI DSS, DORA                                  |
+
+---
+
+## Häufig gestellte Fragen (FAQ)
+
+### Was ist ein Windows Security Assessment?
+Es ist eine umfassende Bewertung der Sicherheit von Windows-, AD-, M365-Umgebungen, die darauf abzielt, reale Schwachstellen zu identifizieren und die Angriffsfläche zu reduzieren.
+
+### Simuliert ISGroup auch reale Angriffe?
+Ja. Es verwendet Red Teaming-Techniken zur Identifizierung von Eskalation, Persistenz und lateralen Bewegungen.
+
+### Ist es für Compliance nützlich?
+Ja. Es liefert technische Nachweise und Roadmaps für ISO 27001, NIS2, GDPR, DORA, PCI DSS.
+
+### Was kostet es?
+Von ~4.000€ bis über 15.000€, je nach Komplexität und Größe der Domäne.
+
+### Wie lange dauert das Assessment?
+Von 5 bis 10 Tagen, mit technischen Sitzungen, Debriefing und Post-Remediation-Unterstützung.
